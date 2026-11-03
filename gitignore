@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.mp3
+error.txt
+.venv/
+venv/
+.env
